@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### NPM ###
-src/main/resources/static/node_modules
+src/main/resources/web-app/reactjs/node_modules
