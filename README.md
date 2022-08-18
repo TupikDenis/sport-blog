@@ -4,5 +4,7 @@
 
 # Стек:
 Backend - Java 8 (фреймворк Spring Boot), Maven
+
 Frontend - HTML, CSS, JS (фреймворк ReactJs) 
+
 Database - PostgreSql
