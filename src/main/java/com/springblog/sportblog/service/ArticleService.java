@@ -13,6 +13,8 @@ public class ArticleService {
     @Autowired
     private ArticleRepo articleRepo;
 
+    public ArticleService(){}
+
     public Article createArticle(ArticleEntity article){
         return null;
     }
@@ -21,7 +23,7 @@ public class ArticleService {
         return null;
     }
 
-    public List<Article> getArticleById(Long id){
+    public Article getArticleById(Long id){
         return null;
     }
 
@@ -29,7 +31,7 @@ public class ArticleService {
         return null;
     }
 
-    public Article deleteArticle(Long id){
+    public Long deleteArticle(Long id){
         return null;
     }
 }
